@@ -1,0 +1,56 @@
+.home {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .home-header {
+    background-color: #007bff;
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .home-header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+  }
+  
+  .home-header p {
+    font-size: 1.2rem;
+  }
+  
+  .home-nav {
+    margin-top: 20px;
+  }
+  
+  .nav-link {
+    color: white;
+    background-color: #0056b3;
+    padding: 10px 20px;
+    margin: 5px;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .nav-link:hover {
+    background-color: #004080;
+  }
+  
+  .home-content {
+    margin-top: 40px;
+  }
+  
+  .home-content h2 {
+    font-size: 2rem;
+  }
+  
+  .home-content ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .home-content li {
+    font-size: 1.2rem;
+    margin: 10px 0;
+  }
+  
